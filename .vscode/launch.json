@@ -1,0 +1,43 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BankApplication",
+            "request": "launch",
+            "mainClass": "com.luxoft.jva007.BankApp.BankApplication",
+            "projectName": "HelloWorld2_e39acc03"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BankMain",
+            "request": "launch",
+            "mainClass": "com.luxoft.jva007.BankApp.BankMain",
+            "projectName": "HelloWorld2_e39acc03"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BankApp",
+            "request": "launch",
+            "mainClass": "com.luxoft.jva007.BankApp.BankApp",
+            "projectName": "HelloWorld2_e39acc03"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CalculatorMain",
+            "request": "launch",
+            "mainClass": "com.luxoft.jva007.Calculator.CalculatorMain"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "com.luxoft.jva007.HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Shop",
+            "request": "launch",
+            "mainClass": "com.luxoft.jva007.ClassDiagram.Shop"
+        }
+    ]
+}
